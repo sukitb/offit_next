@@ -1,5 +1,5 @@
 {
-  "name": "skooldio-test-nexjs",
+  "name": "offit1.0",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,9 @@
     "lint": "next lint",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
+  },
+  "resolutions": {
+    "webpack": "^5"
   },
   "dependencies": {
     "next": "12.3.0",
